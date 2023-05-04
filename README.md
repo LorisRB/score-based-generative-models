@@ -1,4 +1,5 @@
 # score-based-generative-models
-score-based generative models through stochastic differential equations
 
-SVHN dataset
+Try to generate images of SVHN dataset with score-based generative models through annealed Langevin dynamics
+
+
